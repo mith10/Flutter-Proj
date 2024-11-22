@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448572083843",
+    "project_id": "unique-solutions-15768",
+    "storage_bucket": "unique-solutions-15768.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448572083843:android:bfd9b11099d31c9d6295b6",
+        "android_client_info": {
+          "package_name": "com.example.company"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy7wuG7KDlHT737NNsNjjSScnQ6LPoNhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
